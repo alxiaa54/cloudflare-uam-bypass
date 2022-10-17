@@ -21,7 +21,7 @@
 # along with DarkUtilities. If not, see <http://www.gnu.org/licenses/>.        #
 #                                                                              #
 ################################################################################
-#                     Made with ❤️ by github.com/inplex-sys                    #
+#                     Made with ❤️ by github.com/inplex-sys                    ##
 ################################################################################
 
 import random
